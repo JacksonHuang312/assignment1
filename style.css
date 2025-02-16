@@ -1,3 +1,15 @@
 .header-1{
     color: aqua;
 }
+.calcImg1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    border: 1px red solid;
+  }
+    .calcImg2 {
+        position: relative;
+        top: 0;
+        left: 0;
+        border: 1px blue solid;
+    }
