@@ -1,5 +1,6 @@
 .header-1{
     color: aqua;
+    text-align: center;
 }
 .calcImg1 {
     position: relative;
@@ -7,6 +8,7 @@
     left: 0;
     border: 1px red solid;
   }
+
     .calcImg2 {
         position: relative;
         top: 0;
